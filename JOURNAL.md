@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/8/2025 - Did some research  
+## 9/8/2025 - Did some research  
 
 Mostly spent time looking into how ZMK works as that is the firmware I will be using. As well as exploring keyboard matrices and skim reading the split wireless keyboard guide for some pointers. 
 
