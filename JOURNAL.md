@@ -6,12 +6,21 @@
   ==================================================================
 -->
 
-## 9/8/2025 - Did some research  
+## 11/8/2025 - Did some research  
 
 Mostly spent time looking into how ZMK works as that is the firmware I will be using. As well as exploring keyboard matrices and skim reading the split wireless keyboard guide for some pointers. 
 
 I don't intend to use the info from the guide much in the project, I was more using it for recommendations for microcontrollers. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--066cadda63e538dad2da30f05d2b34b9419233f1/image.png)
+  
+
+## 11/9/2025 - Creating schematic and PCB  
+
+The schematic was fairly simple, it was a near copy of the example from the split keyboard tutorial. The main modification was editing the Schematic fit the 22 key layout of a stenotype.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--51621a32520fafbf7a9fd39e51e6a59187782fcb/image.png)
+
+I chose an ortholinear layout for my keyboard, primarily so that I can fulfil my requirement of it being a rectangle. The thumb keys are offset by one row from the rest of the keys for ergonomic purposes. Other than that it was a simple matter of aligning the keys into two rows of 5 and one row of 2 and then creating all the traces.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4MywicHVyIjoiYmxvYl9pZCJ9fQ==--abd94b69c8ea49193424488a004406d00ede8d7e/image.png)
   
 
