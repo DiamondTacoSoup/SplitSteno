@@ -24,3 +24,26 @@ I chose an ortholinear layout for my keyboard, primarily so that I can fulfil my
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4MywicHVyIjoiYmxvYl9pZCJ9fQ==--abd94b69c8ea49193424488a004406d00ede8d7e/image.png)
   
 
+## 11/10/2025 - Started Creating the CAD file for the case  
+
+It is a fairly standard rectangular design I am using for the case. 
+The main feature the case adds is a wedged shaped angle stand that attaches to the stenotype via magnets. 
+This wedge also doubles up as a protective case. The wedge can be attached to the top of the keyboard rather than the bottom using yet more magnets. The if the two sides of the case are put together the two wedges mesh, forming the two halves into a rectangular prism with the keys protected in the middle.
+
+This design is not final, and I will be touching it up at a later date.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b8e2bd6fb66654516feecf846c687303276a138/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--560096a46c140efc85c115041ba61d067af86364/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--73814b7c64713a3e0a9914c1e23a0909fe09fffc/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3NywicHVyIjoiYmxvYl9pZCJ9fQ==--6ed865bd6be52142c775abac37b16d5cdc4a1c58/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3789d59df2016688935279112c6eee28d9e692d/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a31c262c4450c7fef5ca2dd46372b8eb911b4781/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--51f7a6d9fc1533c65f94d6d6e6fb96b96a0506e5/image.png)
+
+
+
+
+
+  
+
